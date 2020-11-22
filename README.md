@@ -13,7 +13,7 @@
 ### Challenges
 * The data comes from an actual company and the collection process in general was not consistent, therefore thorough preprocessing is required.
 * Some columns were edited after the loan was issued which can lead to data leakage if these columns are not discarded before fitting the models.
-* Dataset has missing values.
+* Dataset has numerous missing values.
 * Some columns contain categorical variables with many levels.
 * There is a significant number of possibly irrelevant features, so the best features have to be methodically selected.
 * Class imbalance has to be addressed.
