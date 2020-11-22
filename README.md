@@ -19,7 +19,8 @@
 * Class imbalance has to be addressed.
 
 ### Solution
+* Carried out careful preprocessing and feature selection.
 * Prepared several competing predictive models of default.
-* We perform model selection by comparing average ROC and AUC computed via 5-fold cross-validation.
-*	The top performing model achieves AUC > 0.7.
+* Performed model selection by comparing average ROC and AUC computed via 5-fold cross-validation.
+*	Top performing model achieves AUC > 0.7.
 * Among considered models were: logistic regression, decision tree, boosted tree, random forest, gaussian naïve Bayes and SVM classifiers.
