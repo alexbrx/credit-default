@@ -1,3 +1,5 @@
+## Predicting Credit Default from Customer Data for Peer-to-Peer Lending Platform
+
 ### Business Context
 *	[LendingClub](https://www.lendingclub.com/) is one of the world's largest peer-to-peer lending platforms providing loans and investment opportunities for individual and corporate customers.
 *	In the recent years, the share of defaulted loans issued on the platform has increased significantly, therefore the company seeks to develop a predictive model of default to support the underwriting process.
